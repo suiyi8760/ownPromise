@@ -1,0 +1,8 @@
+{
+  "scripts": {
+    "test:es5": "promises-aplus-tests ./promise-es5.js"
+  },
+  "devDependencies": {
+    "promises-aplus-tests": "^2.1.2"
+  }
+}
